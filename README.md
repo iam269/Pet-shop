@@ -1,6 +1,10 @@
-# Pet Food Shop Website
+# 🐾 Pet Food Shop Website
 
 A simple, responsive website for a pet food shop built using HTML, CSS, and JavaScript.
+
+## Live Demo
+
+[View the live website](https://iam269.github.io/Pet-shop/)
 
 ## Features
 
